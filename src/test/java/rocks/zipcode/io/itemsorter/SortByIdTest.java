@@ -5,14 +5,12 @@ import org.junit.Test;
 import rocks.zipcode.io.Item;
 import rocks.zipcode.io.ItemSorter;
 import rocks.zipcode.io.comparators.IdComparator;
-import rocks.zipcode.io.comparators.IdComparator;
 
 import java.util.Comparator;
 
 /**
  * @author leon on 30/01/2019.
  */
-@SuppressWarnings("all")
 public class SortByIdTest {
     @Test
     public void test1() {
